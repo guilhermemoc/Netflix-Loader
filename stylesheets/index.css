@@ -16,7 +16,7 @@ body {
     height: 100vh;
     display: block;
     margin: 0 auto;
-    background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/star-wars-wallpaper-17.jpg");
+    background-image: url("../images/bgsw.jpg");
     background-size: cover;
     background-position: center center;
     position: relative;
